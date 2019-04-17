@@ -26,4 +26,4 @@ If you find the implementation useful in your research, please cite:
 
 ### How to run the code?
 
-python cmd_main.py
+python cmd_train.py
